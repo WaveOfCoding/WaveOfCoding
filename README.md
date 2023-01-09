@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Junior Python developer
+### Hi there I'm a Python developer
 
 
 
