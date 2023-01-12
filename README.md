@@ -1,9 +1,6 @@
 ### Hi there I'm a Python developer
 
-
-
-#### Technology stack
-
+Technology stack
 
 **Back-end**
 
@@ -15,11 +12,9 @@
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
-
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-
 
 **Front-end**
 
@@ -32,7 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaveOfCoding&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WaveOfCoding&theme=github)
